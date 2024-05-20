@@ -1,0 +1,3 @@
+insert into products (name, description, picture) values ('iPhone 14 Pro', 'Best iPhone ever!', 'https://www.apple.com.cn/iphone-14-pro/images/overview/design/design_startframe__cffzwjeyro2q_large_2x.jpg');
+insert into products (name, description, picture) values ('iPad Pro', 'Best iPad ever!', 'https://www.apple.com.cn/v/ipad-pro/ak/images/overview/chip/performance_hero__cxya4f2p5euu_large_2x.jpg');
+insert into products (name, description, picture) values ('MacBook Pro', 'Best MacBook ever!', 'https://www.apple.com.cn/macbook-pro-13/images/overview/camera_hero_hardware__cfpmer0zbeeu_large_2x.jpg');
